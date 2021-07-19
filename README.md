@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuisEObando (Systems Engineer)
 - 👀 I’m interested learning and developing web projects 
-- 🌱 I’m currently learning: HTML, CSS, JS AJAX PHP, MySQL, Github and RPA with python.. 🏃‍
+- 🌱 I’m currently learning: HTML, CSS, JS AJAX PHP, MySQL, Github and RPA with Python 🐍
 - 💞️ I’m looking to collaborate on development web projects 
 - 📫 How to reach me: +57 313 246 2315 - luiseobando95@gmail.com
 
