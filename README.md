@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LuisEObando (Systems Engineer)
 - 👀 I'm interested in software learning and development 
-- 🌱 I’m currently learning: Web development 🌐 and RPA with Python🐍 Rocketbot🚀 And UiPath🤖
-- 💞️ I’m looking to collaborate on development web projects 
+- 🌱 I’m currently learning: React and Django Rest!
 - 📫 How to reach me: +57 313 246 2315 - luiseobando95@gmail.com
 
 <!---
